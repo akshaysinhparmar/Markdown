@@ -24,3 +24,10 @@ Markdown applications use something called a Markdown processor (also commonly r
 
 ![image](https://user-images.githubusercontent.com/48562260/141735824-6bdd6243-3747-4a88-bf21-69f9e36bad04.png)
 
+To summarize, this is a four-part process:
+
+1 Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.
+2 Open the Markdown file in a Markdown application.
+3 Use the Markdown application to convert the Markdown file to an HTML document.
+4 View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
+
