@@ -45,3 +45,10 @@ It doesn’t take long to learn the Markdown syntax, and once you know how to us
 
 Here are some examples of what you can do with Markdown.
 
+#### Websites
+
+Markdown was designed for the web, so it should come as no surprise that there are plenty of applications specifically designed for creating website content.
+
+If you’re looking for the simplest possible way to create a website with Markdown files, check out blot.im. After you sign up for Blot, it creates a Dropbox folder on your computer. Just drag and drop your Markdown files into the folder and — poof! — they’re on your website. It couldn’t be easier.
+
+If you’re familiar with HTML, CSS, and version control, check out Jekyll, a popular static site generator that takes Markdown files and builds an HTML website. One advantage to this approach is that GitHub Pages provides free hosting for Jekyll-generated websites. If Jekyll isn’t your cup of tea, just pick one of the many other static site generators available.
