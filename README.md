@@ -12,3 +12,8 @@ In an application like Microsoft Word, you click buttons to format words and phr
 - Markdown is future proof. Even if the application you’re using stops working at some point in the future, you’ll still be able to read your Markdown-formatted text using a text editing application. This is an important consideration when it comes to books, university theses, and other milestone documents that need to be preserved indefinitely.
 
 - Markdown is everywhere. Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
+
+### How Does it Work?
+When you write in Markdown, the text is stored in a plaintext file that has an .md or .markdown extension.
+
+The short answer is that you need a Markdown application capable of processing the Markdown file. There are lots of applications available — everything from simple scripts to desktop applications that look like Microsoft Word.
