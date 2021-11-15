@@ -29,5 +29,19 @@ To summarize, this is a four-part process:
 - 1 Create a Markdown file using a text editor or a dedicated Markdown application. The file should have an .md or .markdown extension.
 - 2 Open the Markdown file in a Markdown application.
 - 3 Use the Markdown application to convert the Markdown file to an HTML document.
-- 4 View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF.
+- 4 View the HTML file in a web browser or use the Markdown application to convert it to another file format, like PDF
+ 
+### What’s Markdown Good For?
+Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents.
+
+It doesn’t take long to learn the Markdown syntax, and once you know how to use it, you can write using Markdown just about everywhere. Most people use Markdown to create content for the web, but Markdown is good for formatting everything from email messages to grocery lists.
+
+Here are some examples of what you can do with Markdown.
+
+What’s Markdown Good For?
+Markdown is a fast and easy way to take notes, create content for a website, and produce print-ready documents.
+
+It doesn’t take long to learn the Markdown syntax, and once you know how to use it, you can write using Markdown just about everywhere. Most people use Markdown to create content for the web, but Markdown is good for formatting everything from email messages to grocery lists.
+
+Here are some examples of what you can do with Markdown.
 
