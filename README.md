@@ -277,38 +277,64 @@ term
 ```
 > blockquote
 ### Ordered List
-
+```
+1. First item
+2. Second item
+3. Third item
+```
 1. First item
 2. Second item
 3. Third item
 
 ### Unordered List
 
+```
+- First item
+- Second item
+- Third item
+``
 - First item
 - Second item
 - Third item
 
 ### Code
+```
+`code`
+```
 
 `code`
-
 ### Horizontal Rule
-
+```
+---
+```
 ---
 
 ### Link
 
+```
+[Markdown Guide](https://www.markdownguide.org)
+```
 [Markdown Guide](https://www.markdownguide.org)
 
 ### Image
 
+```
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
+```
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
 ## Extended Syntax
-
+```
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+```
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 ### Table
+```
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+```
 
 | Syntax | Description |
 | ----------- | ----------- |
@@ -326,26 +352,46 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ```
 
 ### Footnote
+```
+Here's a sentence with a footnote. [^1]
 
+[^1]: This is the footnote.
+```
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
 ### Heading ID
 
+``` 
+### My Great Heading {#custom-id} 
+```
 ### My Great Heading {#custom-id}
 
 ### Definition List
 
+```
+term
+: definition
+
+```
 term
 : definition
 
 ### Strikethrough
 
+```
+~~The world is flat.~~]
+```
 ~~The world is flat.~~
 
 ### Task List
 
+```
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+```
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
