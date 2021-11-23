@@ -200,15 +200,21 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | Paragraph | Text |
 
 ### Fenced Code Block
+ 
+> ```
+> {
+>    "firstName": "Akshaysinh",
+>    "lastName": "Parmar",
+>    "Number": 9727775553 
+> }
+> ```
 
-``` 
 ```
 {
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
+    firstName": "Akshaysinh",
+    "lastName": "Parmar",
+    "Number": 9727775553
 }
-```
 ```
 
 ### Footnote
