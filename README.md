@@ -201,14 +201,7 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
  
-> ``` ``` ```
-> {
->    "firstName": "Akshaysinh",
->    "lastName": "Parmar",
->    "Number": 9727775553 
-> }
-> ``` ``` ```
-
+> See its code sample  put ``` before and after of your code .it will work like this .
 ```
 {
     firstName": "Akshaysinh",
@@ -218,26 +211,40 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 ``` 
 
 ### Footnote
+```
+Here's a sentence with a footnote. [^1]
 
+[^1]: This is the footnote.
+```
 Here's a sentence with a footnote. [^1]
 
 [^1]: This is the footnote.
 
 ### Heading ID
-
+```
+### My Great Heading {#custom-id}
+```
 ### My Great Heading {#custom-id}
 
 ### Definition List
-
+```
 term
 : definition
-
+```
+term
+: definition
 ### Strikethrough
-
+```
+~~The world is flat.~~
+```
 ~~The world is flat.~~
 
 ### Task List
-
+```
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+```
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
@@ -245,16 +252,20 @@ term
 
 ### Bold
 
+```
 **bold text**
-
+```
+**bold text**
 ### Italic
-
+```
 *italicized text*
-
+```
+*italicized text*
 ### Blockquote
-
+```
 > blockquote
-
+```
+> blockquote
 ### Ordered List
 
 1. First item
