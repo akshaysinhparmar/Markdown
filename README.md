@@ -104,50 +104,9 @@ Collaboration and team messaging applications are a popular way of communicating
 
 
 ## Cheat Sheet of Markdown 
-
-
-```
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-Alternatively, for H1 and H2, an underline-ish style:
-Alt-H1
-======
-Alt-H2
-------
-```
-
-
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
-Alternatively, for H1 and H2, an underline-ish style:
-Alt-H1
-======
-Alt-H2
-------
-
 ## Basic Syntax
 
-
-### Heading
-
-# Markdown Cheat Sheet
-
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
-
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
-## Basic Syntax
-
-These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.
+All Markdown applications support these elements.
 
 ### Heading
 
