@@ -112,51 +112,88 @@ These are the elements outlined in John Gruber’s original design document. All
 
 ### Bold
 
-``` **bold text** ```
+``` 
+**bold text** 
+```
 **bold text**
 
 ### Italic
-
+```
+*italicized text*
+```
 *italicized text*
 
 ### Blockquote
 
+```
 > blockquote
+```
+> > blockquote
 
 ### Ordered List
+```
 
+1. First item
+2. Second item
+3. Third item
+```
 1. First item
 2. Second item
 3. Third item
 
 ### Unordered List
 
+```
+- First item
+- Second item
+- Third item
+```
 - First item
 - Second item
 - Third item
 
 ### Code
 
+```
+`code`
+```
 `code`
 
 ### Horizontal Rule
-
+```
+---
+```
 ---
 
 ### Link
 
+```
+[Markdown Guide](https://www.markdownguide.org)
+```
 [Markdown Guide](https://www.markdownguide.org)
 
 ### Image
+```
+![alt text](https://www.markdownguide.org/assets/images/tux.png)
+```
 
 ![alt text](https://www.markdownguide.org/assets/images/tux.png)
 
 ## Extended Syntax
 
+```
+These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+```
 These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
 
 ### Table
 
+```
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+```
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
@@ -164,12 +201,14 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 
 ### Fenced Code Block
 
+``` 
 ```
 {
   "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
+```
 ```
 
 ### Footnote
